@@ -22,4 +22,4 @@ type in coreboot.rom
 
 Reboot and enjoy your new boot logo.
 
-Modified source included in Repo for reference.
+Modified source boot logo images included in Repo for reference.
